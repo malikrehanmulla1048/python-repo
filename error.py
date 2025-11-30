@@ -1,5 +1,5 @@
 # def spam():
-#     print(eggs)
+#     print(eggs) /"here it gave the output as error"/
 #     eggs="spam local"
 eggs="global spam"
 # spam()
