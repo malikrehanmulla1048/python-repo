@@ -1,12 +1,12 @@
 # def spam():
-#     print(eggs) /"here it gave the output as error"/?//name error//?
+#     print(eggs) /"here it gave the output as error"/
 #     eggs="spam local"
-# eggs="global spam"
-# spam()
+#eggs="global spam"
+#spam()
 def spam():
     eggs="spam local"
     bacon()
-    print(eggs)
+    print(eggs)   
 def bacon():
     eggs="bacon local"
     shell="white"
